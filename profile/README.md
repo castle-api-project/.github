@@ -10,14 +10,14 @@
 日本の城をJSON形式でまとめてます。目標は1000城!!  
 助っ人求む `情報提供` `プルリク` `Issues` 是非お願いします  
 
-- [JP-CastleAPI app](https://github.com/SatooRu65536/castle-api-app/releases)
+- [JP-CastleAPI app](https://github.com/castle-api-project/castle-api-app/releases)
 - [JP-CastleAPI app(ブラウザ版)](https://castle-api-app.vercel.app/)
 - [GitHub](https://github.com/castle-api-project/jp-castle-api)
 
 ### サンプルデータ
 ```json
 {
-"  name": "名古屋城",
+  "name": "名古屋城",
   "alias": ["金鯱城", "金城", "柳城", "亀屋城", "蓬左城"],
   "build": 1619,
   "castle_tower": {
